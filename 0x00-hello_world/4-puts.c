@@ -2,7 +2,6 @@
 /*
  * Main-Is the main funciton of this program
  * Returns: 0
- * 
  */
 int  main(void)
 {
