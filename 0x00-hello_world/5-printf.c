@@ -1,4 +1,4 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 int main(void)
 /**
  *main - this is the main function
