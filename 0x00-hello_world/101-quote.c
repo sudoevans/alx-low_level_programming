@@ -1,7 +1,6 @@
 #include <stdio.h>
 /*
- * main - This is the  Entry
- *
+ * main - Entry
  * Return: 1
  */
 int main(void)
