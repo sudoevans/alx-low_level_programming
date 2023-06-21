@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 /* main: Entry POint 
  * Description: This program will print '_putchar' with a new line 
  * Return: Always zero (0);
