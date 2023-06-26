@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main: Entry point
+ * main - Entry point
  * Description:'This program will print '_putchar' with a new line'
  * Return: Always zero (0);
  */
